@@ -1,0 +1,92 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "title": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://i.ytimg.com/an_webp/CaTbfdsVydE/mqdefault_6s.webp?du=3000&sqp=COrhsbQG&rs=AOn4CLDOcNpGucNaYuFkQJQAJbBZzUvGyg",
+            "link": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+            "description": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar. O @DevSoutinho compartilhou dicas pra você testar seu Front-end e como praticar testes desde funcionalidades simples até as mais avançadas. Confere aí e conta pra gente se você está testando suas habilidades nessa área e quais bibliotecas costuma usar ✌😉"
+        },
+        {
+            "id": 2,
+            "title": "Métricas para o Front End com Mario Souto | #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://i.ytimg.com/an_webp/iVNR-6v8lZU/mqdefault_6s.webp?du=3000&sqp=CPDtsbQG&rs=AOn4CLBrKWHPhM2ouTa9mpiLhSn_RIsqJQ",
+            "link": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+            "description": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site. Se você tá começando a programar ou ainda não sabe quais métricas utilizar no dia a dia, confira o conteúdo e anota as dicas pra colocar em prática. E se você já tem utilizado no seu site métricas incríveis que impactam diretamente na performance, conta pra gente nos comentários, queremos saber 😉✌."
+        },
+        {
+            "id": 3,
+            "title": "O que é uma Single-Page Application? (SPA) #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://i.ytimg.com/vi/opxYpCKzlLk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqOsdQFvkMz3kgyswlYCidC6F5sw",
+            "link": "https://www.youtube.com/watch?v=opxYpCKzlLk",
+            "description": "Mas afinal, o que é uma Single-Page Application? Você sabe a melhor forma e os melhores frameworks para construí-la? Assista as dicas e o bate-papo da Roberta Arcoverde e do Maurício Linhares no vídeo! "
+        },
+        {
+            "id": 4,
+            "title": "O que é Angular e AngularJS? #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://i.ytimg.com/an_webp/LFlNU30u7d8/mqdefault_6s.webp?du=3000&sqp=CJbesbQG&rs=AOn4CLC_J0GuGj1UVyoaM2kcsbnBJrPrVg",
+            "link": "https://www.youtube.com/watch?v=LFlNU30u7d8",
+            "description": "Vanessa Tonini e Mario Souto conversam neste vídeo sobre o Angular  e explicam melhor o que é este framework, como ele surgiu, quando é utilizado e quais são as diferenças entre suas versões. Confira!"
+        },
+        {
+            "id": 5,
+            "title": "Spring Framework. ¿Qué es ?",
+            "category": "BACK-END",
+            "photo": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/t-iqt1b2qqk?si=HaMciLKuslok023B",
+            "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+        },
+        {
+            "id": 6,
+            "title": "¿Qué es SQL y NoSQL?",
+            "category": "BACK-END",
+            "photo": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/cLLKVd5CNLc?si=MYp6WnXXQvqGSPYi",
+            "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+        },
+        {
+            "id": 7,
+            "title": "Simplificando tu código en Java: Conoce los enum",
+            "category": "BACK-END",
+            "photo": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/EoPvlE85XAQ?si=jfXKclbzaZEcDm83",
+            "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
+        },
+        {
+            "id": 8,
+            "title": "¿Qué son las Soft Skills?",
+            "category": "INOVAÇÃO E GESTÃO",
+            "photo": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/vhwspfvI52k?si=jWQPbz3Ph7gX03Zb",
+            "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+        },
+        {
+            "id": 9,
+            "title": "7 Soft Skills más deseadas por las empresas",
+            "category": "INOVAÇÃO E GESTÃO",
+            "photo": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=ky6cHgq598bnyowv",
+            "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
+        },
+        {
+            "id": 10,
+            "title": "Ventajas de las metodologías Ágiles",
+            "category": "INOVAÇÃO E GESTÃO",
+            "photo": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
+            "link": "https://www.youtube.com/embed/p4kpHAvQH9w?si=fqmLwmIBBSzg93o5",
+            "description": "En nuestra 6a edición del Café Punto Tech, hablaremos con Elizabeth León y Andyara Pedrosa dos expertas en area de la metodología Agile, la cual permite adaptar la forma en que un equipo trabaja a los requerimientos del proyecto. Agile es una nueva forma de trabajar, para cumplir con el desarrollo del proyecto de una manera rápida, flexible y adaptada a las circunstancias. Nuestras invitadas van a contarnos las principales ventajas de las metodologías Ágiles."
+        },
+        {
+            "id": 11,
+            "title": "O que é React JS? #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "data:image/jpeg;base64,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",
+            "link": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+            "description": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele. "
+        }
+    ]
+}

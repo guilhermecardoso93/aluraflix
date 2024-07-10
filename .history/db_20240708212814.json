@@ -1,0 +1,92 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "title": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://img.youtube.com/vi/CaTbfdsVydE/sddefault.jpg",
+            "link": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+            "description": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar. O @DevSoutinho compartilhou dicas pra você testar seu Front-end e como praticar testes desde funcionalidades simples até as mais avançadas. Confere aí e conta pra gente se você está testando suas habilidades nessa área e quais bibliotecas costuma usar ✌😉"
+        },
+        {
+            "id": 2,
+            "title": "Métricas para o Front End com Mario Souto | #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://img.youtube.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+            "description": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site. Se você tá começando a programar ou ainda não sabe quais métricas utilizar no dia a dia, confira o conteúdo e anota as dicas pra colocar em prática. E se você já tem utilizado no seu site métricas incríveis que impactam diretamente na performance, conta pra gente nos comentários, queremos saber 😉✌."
+        },
+        {
+            "id": 3,
+            "title": "O que é uma Single-Page Application? (SPA) #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://img.youtube.com/vi/opxYpCKzlLk/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=opxYpCKzlLk",
+            "description": "Mas afinal, o que é uma Single-Page Application? Você sabe a melhor forma e os melhores frameworks para construí-la? Assista as dicas e o bate-papo da Roberta Arcoverde e do Maurício Linhares no vídeo! "
+        },
+        {
+            "id": 4,
+            "title": "O que é Angular e AngularJS? #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://img.youtube.com/vi/LFlNU30u7d8/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=LFlNU30u7d8",
+            "description": "Vanessa Tonini e Mario Souto conversam neste vídeo sobre o Angular  e explicam melhor o que é este framework, como ele surgiu, quando é utilizado e quais são as diferenças entre suas versões. Confira!"
+        },
+        {
+            "id": 5,
+            "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+            "category": "BACK-END",
+            "photo": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/t-iqt1b2qqk?si=HaMciLKuslok023B",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "title": "Kotlin, Micronaut e Back-end com Alberto Sousa | #HipstersPontoTube",
+            "category": "BACK-END",
+            "photo": "https://img.youtube.com/vi/fiPfvylj6rk/sddefault.jpg",
+            "link": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+            "description": "Vamos falar sobre Kotlin, a linguagem da programação que é amplamente usada por desenvolvedores Android. Dessa vez o @DevEficiente nos ajudou a entender quais as vantagens de usar Kotlin e as semelhanças que tem com Java. Vem conferir mais da capacidade dessa linguagem e como usá-la no universo da programação."
+        },
+        {
+            "id": 7,
+            "title": "Simplificando tu código en Java: Conoce los enum",
+            "category": "BACK-END",
+            "photo": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/EoPvlE85XAQ?si=jfXKclbzaZEcDm83",
+            "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum."
+        },
+        {
+            "id": 8,
+            "title": "¿Qué son las Soft Skills?",
+            "category": "INOVAÇÃO E GESTÃO",
+            "photo": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/vhwspfvI52k?si=jWQPbz3Ph7gX03Zb",
+            "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+        },
+        {
+            "id": 9,
+            "title": "7 Soft Skills más deseadas por las empresas",
+            "category": "INOVAÇÃO E GESTÃO",
+            "photo": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+            "link": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=ky6cHgq598bnyowv",
+            "description": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
+        },
+        {
+            "id": 10,
+            "title": "Ventajas de las metodologías Ágiles",
+            "category": "INOVAÇÃO E GESTÃO",
+            "photo": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
+            "link": "https://www.youtube.com/embed/p4kpHAvQH9w?si=fqmLwmIBBSzg93o5",
+            "description": "En nuestra 6a edición del Café Punto Tech, hablaremos con Elizabeth León y Andyara Pedrosa dos expertas en area de la metodología Agile, la cual permite adaptar la forma en que un equipo trabaja a los requerimientos del proyecto. Agile es una nueva forma de trabajar, para cumplir con el desarrollo del proyecto de una manera rápida, flexible y adaptada a las circunstancias. Nuestras invitadas van a contarnos las principales ventajas de las metodologías Ágiles."
+        },
+        {
+            "id": 11,
+            "title": "O que é React JS? #HipstersPontoTube",
+            "category": "FRONT-END",
+            "photo": "https://img.youtube.com/vi/6IuQUgeDPg0/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+            "description": "Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele. "
+        }
+    ]
+}
